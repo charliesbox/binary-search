@@ -7,5 +7,5 @@ Features:
 - visualisation right in the console. the middle element in the list is always surrounded with [] brackets
 
 ## How to run
-python main.py
+python main.py  
 duh
